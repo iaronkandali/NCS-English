@@ -312,7 +312,7 @@ section.active {
   top: 10px; /* Adjust as needed */
   left: 10px; /* Adjust as needed */
   z-index: 10; /* Ensures it stays above other elements */
-  width: 50px; /* Optional: Adjust logo size */
+  width: 150px; /* Optional: Adjust logo size */
   height: auto; /* Maintain aspect ratio */
   margin: 15px;
 }
